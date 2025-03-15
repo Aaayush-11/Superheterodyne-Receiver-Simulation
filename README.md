@@ -30,7 +30,7 @@ The input RF signal is a high-frequency sine wave:
 
 ## **Output Waveform**
 The final detected signal output:
-![Output Waveform](Output Waveform.png)
+![Output Waveform](Output_Waveform.png)
 
 ---
 
