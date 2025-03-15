@@ -20,44 +20,23 @@ The receiver is divided into the following stages:
 3. **IF Amplifier** – Further amplifies the IF signal.
 4. **Detector & Audio Output** – Extracts the original modulated signal.
 
-📷 **_Insert Block_Diagram.png Here_**
 ![Block Diagram](Block_Diagram.png)
 
 ## **Input Waveform**
 The input RF signal is a high-frequency sine wave:
-
-📷 **_Insert Input_Waveform Here_**
+![Input Waveform](Input_Waveform.png)
 
 ---
 
 ## **Output Waveform**
 The final detected signal output:
-
-📷 **_Insert Output_Waveform Here_**
+![Output Waveform](Output Waveform.png)
 
 ---
 
 ## **Component List**
 Below are the components used in the circuit:
-
-📷 **_Insert Components Image Here_**
-
-| **Component**      | **Value**          |
-|--------------------|--------------------|
-| Inductor (L1)     | 100 µH             |
-| Capacitor (C1)    | 10 pF              |
-| Capacitor (C2)    | 1 nF               |
-| Resistor (R1)     | 1 kΩ               |
-| Resistor (R2)     | 10 kΩ              |
-| BJT (Q1)          | NPN (2N2222)       |
-| Diodes (D1, D2)   | 1N4148             |
-| Local Oscillator  | 10 MHz             |
-| Power Supply (VDD)| 9V                 |
-
----
-
-## **Simulation & Expected Results**
-The expected output is a demodulated signal corresponding to the original modulated input. The signal strength and clarity depend on the proper design and tuning of the circuit.
+![Components](Components.jpeg)
 
 ---
 
