@@ -20,7 +20,7 @@ The receiver is divided into the following stages:
 3. **IF Amplifier** – Further amplifies the IF signal.
 4. **Detector & Audio Output** – Extracts the original modulated signal.
 
-📷 **_Insert Block_Diagram Here_**
+📷 **_Insert Block_Diagram.png Here_**
 
 ---
 
