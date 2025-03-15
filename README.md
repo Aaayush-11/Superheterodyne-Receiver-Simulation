@@ -21,8 +21,7 @@ The receiver is divided into the following stages:
 4. **Detector & Audio Output** – Extracts the original modulated signal.
 
 📷 **_Insert Block_Diagram.png Here_**
-
----
+![Block Diagram](Block_Diagram.png)
 
 ## **Input Waveform**
 The input RF signal is a high-frequency sine wave:
