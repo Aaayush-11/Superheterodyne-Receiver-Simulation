@@ -8,7 +8,7 @@ This project simulates a **Superheterodyne Receiver** using **LTSpice**. The rec
 ## **Circuit Diagram**
 The full circuit designed in LTSpice is shown below:
 
-📷 **_Insert Circuit Diagram Here_**
+![Circuit](Circuit.jpg)
 
 ---
 
